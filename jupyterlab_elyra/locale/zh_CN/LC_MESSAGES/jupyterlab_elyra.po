@@ -1,0 +1,719 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jupyterlab_elyra 3.13.0.dev0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-25 14:59+0800\n"
+"PO-Revision-Date: 2023-05-25 14:59+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_Hans_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.12.1\n"
+
+msgctxt "schema"
+msgid "Elyra Pipeline Editor Configuration."
+msgstr "Elyra Pipeline 编辑器配置"
+
+msgctxt "settings"
+msgid "Elyra Pipeline Editor"
+msgstr "Elyra Pipeline 编辑器"
+
+msgctxt "settings"
+msgid ""
+"If enabled, double-clicking a node opens the node's properties. If "
+"disabled (the default), the node's source file is opened."
+msgstr "如果启用，双击节点将打开节点的属性。如果禁用（默认值），节点的源文件将打开。"
+
+msgctxt "settings"
+msgid "Double-click on pipeline node opens properties."
+msgstr "双击 Pipeline 节点打开属性。"
+
+msgctxt "schema"
+msgid "Elyra Pipeline Editor"
+msgstr "Elyra Pipeline 编辑器"
+
+#: packages/code-snippet/src/CodeSnippetService.ts:64
+msgid "Delete snippet %1"
+msgstr "删除片段 %1"
+
+#: packages/code-snippet/src/CodeSnippetService.ts:66
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:244
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:292
+#: packages/metadata-common/src/MetadataWidget.tsx:129
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:389
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:658
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:734
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:753
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:836
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:58
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:118
+#: packages/ui-components/src/BrowseFileDialog.tsx:229
+#: packages/ui-components/src/RequestErrors.tsx:160
+msgid "cancel"
+msgstr "取消"
+
+#: packages/code-snippet/src/CodeSnippetService.ts:67
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:245
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:293
+#: packages/metadata-common/src/MetadataWidget.tsx:130
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:390
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:735
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:754
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:119
+#: packages/ui-components/src/FormComponents/Tags.tsx:93
+#: packages/ui-components/src/RequestErrors.tsx:92
+#: packages/ui-components/src/RequestErrors.tsx:115
+#: packages/ui-components/src/RequestErrors.tsx:165
+msgid "confirm"
+msgstr "确认"
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:237
+msgid "Warning"
+msgstr "警告"
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:238
+msgid "Code snippet \"%1\" is incompatible with %2. Continue?"
+msgstr "代码片段 \"%1\" 与 %2 不兼容，是否继续？"
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:403
+msgid "Copy to clipboard"
+msgstr "代码片段 \"%1\" 与 %2 不兼容，是否继续？"
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:411
+msgid "Insert"
+msgstr "插入"
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:418
+#: packages/metadata-common/src/MetadataWidget.tsx:146
+msgid "Edit"
+msgstr "编辑"
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:430
+#: packages/metadata-common/src/MetadataWidget.tsx:158
+msgid "Duplicate"
+msgstr "复制"
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:445
+#: packages/metadata-common/src/MetadataWidget.tsx:173
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:984
+msgid "Delete"
+msgstr "删除"
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:608
+#: packages/metadata-common/src/MetadataWidget.tsx:481
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:165
+#: packages/pipeline-editor/src/RuntimeImagesWidget.tsx:94
+#: packages/pipeline-editor/src/RuntimesWidget.tsx:178
+msgid "Click the + button to add %1"
+msgstr "点击 + 按钮添加 %1"
+
+#: packages/code-snippet/src/index.ts:73
+#: packages/code-snippet/src/index.ts:86
+msgid "Code Snippets"
+msgstr "代码片段"
+
+#: packages/code-snippet/src/index.ts:79
+msgid "code snippet"
+msgstr "代码片段"
+
+#: packages/code-snippet/src/index.ts:95
+msgid "Save As Code Snippet"
+msgstr "保存为代码片段"
+
+#: packages/metadata-common/src/FilterTools.tsx:205
+msgid "Search..."
+msgstr "查询中..."
+
+#: packages/metadata-common/src/FilterTools.tsx:216
+msgid "Filter by tag"
+msgstr "按标签过滤"
+
+#: packages/metadata-common/src/FilterTools.tsx:95
+msgid "No tags defined"
+msgstr "未定义标签"
+
+#: packages/metadata-common/src/MetadataEditor.tsx:131
+msgid "Edit %1"
+msgstr "编辑 %1"
+
+#: packages/metadata-common/src/MetadataEditor.tsx:133
+msgid "Add new %1 %2"
+msgstr "添加新 %1 %2"
+
+#: packages/metadata-common/src/MetadataEditor.tsx:178
+msgid "All fields marked with an asterisk are required."
+msgstr "有标有星号的字段均为必填项。"
+
+#: packages/metadata-common/src/MetadataEditor.tsx:182
+msgid "[Learn more ...]"
+msgstr "[ 了解更多... ]"
+
+#: packages/metadata-common/src/MetadataEditor.tsx:207
+msgid "Cannot save invalid form."
+msgstr "不能保存无效的表单"
+
+#: packages/metadata-common/src/MetadataEditor.tsx:216
+msgid "Save & Close"
+msgstr "保存并关闭"
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:173
+msgid "Display Name"
+msgstr "显示名称"
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:174
+msgid "Name used to identify an instance of metadata."
+msgstr "用于标识元数据实例的名称"
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:283
+msgid "Close without saving?"
+msgstr "关闭而不保存？"
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:286
+msgid "Metadata has unsaved changes, close without saving?"
+msgstr "元数据有未保存的更改，关闭而不保存？"
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:339
+msgid "Loading..."
+msgstr "加载中..."
+
+#: packages/metadata-common/src/MetadataWidget.tsx:122
+msgid "Delete %1 %2 %3?"
+msgstr "删除 %1 %2 %3"
+
+#: packages/metadata-common/src/MetadataWidget.tsx:527
+msgid "Refresh list"
+msgstr "刷新列表"
+
+#: packages/metadata-common/src/MetadataWidget.tsx:546
+msgid "Create new %1"
+msgstr "新建 %1"
+
+#: packages/metadata/src/index.ts:128
+msgid "New %1 %2"
+msgstr "新建 %1 %2"
+
+#: packages/metadata/src/index.ts:181
+msgid "Close Tab"
+msgstr "关闭 Tab"
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:137
+msgid "Refresh list and reload components from all catalogs"
+msgstr "刷新列表并重新加载所有目录中的组件"
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:60
+msgid "Reload components from catalog"
+msgstr "从目录中重新加载组件"
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:84
+msgid "Runtime Type"
+msgstr "运行时类型"
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:88
+msgid "Description"
+msgstr "描述"
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:92
+msgid "Categories"
+msgstr "类别"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:101
+msgid "button"
+msgstr "按钮"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:104
+msgid "Refer to the"
+msgstr "请参阅"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:111
+msgid "pipeline components"
+msgstr "Pipeline 组件"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:112
+msgid "help topic"
+msgstr "帮助主题"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:114
+msgid "for details"
+msgstr "获取详情"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:54
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:119
+msgid "Click"
+msgstr "点击"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:62
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:127
+msgid "to configure the pipeline editor"
+msgstr "配置 Pipeline 编辑器"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:47
+msgid "Start your new pipeline by dragging files from the file browser pane"
+msgstr "通过从文件浏览器窗格中拖动文件来启动新 Pipeline"
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:91
+msgid ""
+"Start your new pipeline by dragging files from the file browser pane or "
+"add custom components by clicking the"
+msgstr "通过从文件浏览器窗格拖动文件或添加自定义组件来启动新 Pipeline 通过单击"
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:105
+msgid ""
+"For GPU-intensive workloads, you can choose more than 1 GPU. Must be\n"
+"            an integer."
+msgstr "对于 GPU 密集型工作负载，您可以选择 1 个以上的 GPU。 必须是\n 一个整数。"
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:116
+msgid "The total amount of RAM specified."
+msgstr "指定的 RAM 总量。"
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:132
+msgid "Include File Dependencies"
+msgstr "包含文件依赖"
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:43
+msgid "Environment Variables"
+msgstr "环境变量"
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:83
+msgid "Runtime Image"
+msgstr "运行时镜像"
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:97
+msgid ""
+"For CPU-intensive workloads, you can choose more than 1 CPU (e.g.\n"
+"            1.5)."
+msgstr "对于 CPU 密集型工作负载，您可以选择 1 个以上的 CPU（例如\n 1.5）。"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:1008
+msgid "Close Panel"
+msgstr "关闭面板"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:1008
+msgid "Open Panel"
+msgstr "打开面板"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:1073
+msgid "Unsupported File(s)"
+msgstr "不受支持的文件"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:1074
+msgid ""
+"Only supported files (Notebooks, Python scripts, and R scripts) can be "
+"added to a pipeline."
+msgstr "只有受支持的文件（Notebook、Python script和 R script）可以添加到 Pipeline 中。"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:251
+#: packages/pipeline-editor/src/PipelineService.tsx:126
+#: packages/pipeline-editor/src/RuntimeImagesWidget.tsx:111
+#: packages/pipeline-editor/src/index.ts:377
+msgid "runtime image"
+msgstr "运行时镜像"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:372
+msgid "Migrate pipeline?"
+msgstr "迁移 Pipeline?"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:375
+msgid ""
+"This pipeline corresponds to an older version of Elyra and needs\n"
+"              to be migrated."
+msgstr "此 Pipeline 对应于 Elyra 的旧版本并且需要\n被迁移。"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:378
+msgid ""
+"Although the pipeline can be further edited and/or submitted after\n"
+"              its update,"
+msgstr "虽然可以在之后进一步编辑和/或提交 Pipeline\n的更新，"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:381
+msgid ""
+"the migration will not be completed until the pipeline has been\n"
+"              saved within the editor."
+msgstr "在 Pipeline 被保存在编辑器中之前，迁移不会完成"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:385
+msgid "Proceed with migration?"
+msgstr "继续迁移？"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:416
+msgid "Pipeline migration aborted!"
+msgstr "Pipeline 迁移中止！"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:420
+msgid ""
+"The pipeline you are trying to migrate uses example\n"
+"                      components, which are not"
+msgstr "您尝试迁移的 Pipeline 使用示例组件，这些组件不是"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:423
+msgid ""
+"enabled in your environment. Complete the setup\n"
+"                      instructions in"
+msgstr "在您的环境中启用。 完成中的设置说明"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:430
+msgid "Example Custom Components"
+msgstr "示例自定义组件"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:432
+msgid "and try again."
+msgstr "并重试"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:435
+msgid "Close"
+msgstr "关闭"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:441
+msgid "Pipeline migration failed!"
+msgstr "Pipeline 迁移失败！"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:455
+msgid "Load pipeline failed!"
+msgstr "加载流水线失败！"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:570
+msgid "Component not found"
+msgstr "未找到组件"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:573
+msgid ""
+"This node uses a component that is not stored in your component\n"
+"              registry."
+msgstr "此节点使用未存储在您的组件注册表中的组件。"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:588
+msgid "Learn more..."
+msgstr "了解更多..."
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:646
+msgid "Failed run: %1"
+msgstr "运行失败： %1"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:647
+msgid "Failed export: %1"
+msgstr "导出失败： %1"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:654
+msgid ""
+"This pipeline contains unsaved changes. To submit the pipeline the changes"
+" need to be saved."
+msgstr "此 Pipeline 包含未保存的更改。 要提交 Pipeline，需要保存更改。"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:659
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:59
+msgid "Save and Submit"
+msgstr "保存并提交"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:694
+msgid "run pipeline for %1"
+msgstr "启动 Pipeline %1"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:695
+msgid "export pipeline for %1"
+msgstr "导出 Pipeline %1"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:697
+msgid "run pipeline"
+msgstr "运行 Pipeline"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:698
+msgid "export pipeline"
+msgstr "导出 Pipeline"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:703
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:86
+msgid "runtime"
+msgstr "运行时"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:833
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:948
+msgid "Clear Pipeline"
+msgstr "清空 Pipeline"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:834
+msgid "Are you sure you want to clear the pipeline?"
+msgstr "您确定要清除 Pipeline 吗？"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:837
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:849
+msgid "Clear All"
+msgstr "清除全部"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:838
+msgid "Clear Canvas"
+msgstr "清除画布"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:929
+msgid "Run Pipeline"
+msgstr "运行 Pipeline"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:934
+msgid "Save Pipeline"
+msgstr "保存 Pipeline"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:941
+msgid "Export Pipeline"
+msgstr "导出 Pipeline"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:955
+msgid "Open Runtimes"
+msgstr "打开运行时"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:962
+msgid "Open Runtime Images"
+msgstr "打开运行时镜像"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:969
+msgid "Open Component Catalogs"
+msgstr "打开组件目录"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:974
+msgid "Undo"
+msgstr "撤销"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:975
+msgid "Redo"
+msgstr "重做"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:976
+msgid "Cut"
+msgstr "剪切"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:977
+msgid "Copy"
+msgstr "复制"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:978
+msgid "Paste"
+msgstr "粘贴"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:981
+msgid "Add Comment"
+msgstr "添加注释"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:987
+msgid "Arrange Horizontally"
+msgstr "水平排列"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:992
+msgid "Arrange Vertically"
+msgstr "垂直排列"
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:999
+msgid "Runtime: %1"
+msgstr "运行时： %1"
+
+#: packages/pipeline-editor/src/PipelineExportDialog.tsx:81
+msgid "Replace if file already exists"
+msgstr "如果文件已存在则替换"
+
+#: packages/pipeline-editor/src/PipelineService.tsx:101
+msgid "schema"
+msgstr "模型"
+
+#: packages/pipeline-editor/src/PipelineSubmissionDialog.tsx:38
+msgid "Pipeline Name"
+msgstr "Pipeline 名称"
+
+#: packages/pipeline-editor/src/RuntimeConfigSelect.tsx:41
+msgid "Run in-place locally"
+msgstr "立即在本地运行"
+
+#: packages/pipeline-editor/src/RuntimeConfigSelect.tsx:63
+msgid "Runtime Platform"
+msgstr "运行时平台"
+
+#: packages/pipeline-editor/src/RuntimeConfigSelect.tsx:85
+msgid "Runtime Configuration"
+msgstr "运行时配置"
+
+#: packages/pipeline-editor/src/RuntimeImagesWidget.tsx:66
+msgid "Container Image"
+msgstr "容器镜像"
+
+#: packages/pipeline-editor/src/RuntimesWidget.tsx:115
+msgid "API Endpoint"
+msgstr "API 端点"
+
+#: packages/pipeline-editor/src/RuntimesWidget.tsx:126
+msgid "Cloud Object Storage"
+msgstr "云对象存储"
+
+#: packages/pipeline-editor/src/RuntimesWidget.tsx:159
+#: packages/pipeline-editor/src/index.ts:358
+msgid "runtime configuration"
+msgstr "运行时配置"
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:107
+msgid "Run file as pipeline"
+msgstr "将文件作为 Pipeline 运行"
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:165
+msgid "Run as Pipeline"
+msgstr "作为 Pipeline 运行"
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:167
+msgid "Run file as batch"
+msgstr "批量运行文件"
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:54
+msgid ""
+"This file contains unsaved changes. To run the file as pipeline the "
+"changes need to be saved."
+msgstr "此文件包含未保存的更改。 要将文件作为 Pipeline 运行，需要保存更改。"
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:87
+msgid "run file as pipeline."
+msgstr "将文件作为 Pipeline 运行"
+
+#: packages/pipeline-editor/src/index.ts:167
+msgid "Add File to Pipeline"
+msgstr "将文件添加到 Pipeline"
+
+#: packages/pipeline-editor/src/index.ts:175
+msgid "Refresh Pipeline Palette"
+msgstr "刷新 Pipeline Palette"
+
+#: packages/pipeline-editor/src/index.ts:355
+#: packages/pipeline-editor/src/index.ts:366
+msgid "Runtimes"
+msgstr "运行时"
+
+#: packages/pipeline-editor/src/index.ts:374
+#: packages/pipeline-editor/src/index.ts:384
+msgid "Runtime Images"
+msgstr "运行时镜像"
+
+#. TODO: This info should come from the server for all schemaspaces
+#: packages/pipeline-editor/src/index.ts:392
+#: packages/pipeline-editor/src/index.ts:405
+msgid "Component Catalogs"
+msgstr "组件目录"
+
+#: packages/pipeline-editor/src/index.ts:395
+msgid "component catalog"
+msgstr "组件目录"
+
+#: packages/python-editor/src/index.ts:246
+msgid "New Python Editor"
+msgstr "新建 Python 编辑器"
+
+#: packages/python-editor/src/index.ts:247
+msgid "Python Editor"
+msgstr "Python 编辑器"
+
+#: packages/python-editor/src/index.ts:248
+msgid "Create a new Python Editor"
+msgstr "新建一个 Python 编辑器"
+
+#: packages/r-editor/src/index.ts:245
+msgid "New R Editor"
+msgstr "新建 R 编辑器"
+
+#: packages/r-editor/src/index.ts:245
+msgid "R Editor"
+msgstr "R 编辑器"
+
+#: packages/r-editor/src/index.ts:246
+msgid "Create a new R Editor"
+msgstr "新建一个 R 编辑器"
+
+#: packages/scala-editor/src/index.ts:246
+msgid "New Scala Editor"
+msgstr "新建 Scala 编辑器"
+
+#: packages/scala-editor/src/index.ts:247
+msgid "Scala Editor"
+msgstr "Scala 编辑器"
+
+#: packages/scala-editor/src/index.ts:248
+msgid "Create a new Scala Editor"
+msgstr "新建一个 Scala 编辑器"
+
+#: packages/script-editor/src/ScriptEditor.tsx:112
+msgid "Save file contents"
+msgstr "保存文件内容"
+
+#: packages/script-editor/src/ScriptEditor.tsx:119
+msgid "Run"
+msgstr "运行"
+
+#: packages/script-editor/src/ScriptEditor.tsx:126
+msgid "Interrupt the kernel"
+msgstr "中断内核"
+
+#: packages/theme/src/index.ts:107 packages/theme/src/index.ts:132
+msgid "Launcher"
+msgstr "启动器"
+
+#: packages/theme/src/index.ts:89
+msgid "New Launcher"
+msgstr "新建启动器"
+
+#: packages/ui-components/src/BrowseFileDialog.tsx:226
+msgid "Select a file"
+msgstr "选择一个文件"
+
+#: packages/ui-components/src/BrowseFileDialog.tsx:230
+msgid "Select"
+msgstr "选择"
+
+#: packages/ui-components/src/FormComponents/Tags.tsx:146
+msgid "Add Tag"
+msgstr "添加标签"
+
+#: packages/ui-components/src/FormComponents/Tags.tsx:90
+msgid "A tag with this label already exists."
+msgstr "具有此标签的标记已存在。"
+
+#: packages/ui-components/src/RequestErrors.tsx:108
+msgid "Error contacting server"
+msgstr "联系服务器时出错"
+
+#: packages/ui-components/src/RequestErrors.tsx:111
+msgid "Endpoint"
+msgstr "端点"
+
+#: packages/ui-components/src/RequestErrors.tsx:112
+msgid "not found."
+msgstr "未找到"
+
+#: packages/ui-components/src/RequestErrors.tsx:139
+msgid "Cannot %1"
+msgstr "不能 %1"
+
+#: packages/ui-components/src/RequestErrors.tsx:140
+msgid "Error retrieving metadata"
+msgstr "检索元数据时出错"
+
+#: packages/ui-components/src/RequestErrors.tsx:145
+msgid "No {%1} configuration is defined"
+msgstr "未定义 {%1} 配置"
+
+#: packages/ui-components/src/RequestErrors.tsx:147
+msgid "No {%1} configuration for %2 is defined"
+msgstr "未定义 %2 的 {%1} 配置"
+
+#: packages/ui-components/src/RequestErrors.tsx:154
+msgid "Please create one and try again."
+msgstr "请创建一个，然后重试。"
+
+#: packages/ui-components/src/RequestErrors.tsx:162
+msgid "Open runtimes"
+msgstr "打开运行时"
+
+#: packages/ui-components/src/RequestErrors.tsx:68
+msgid "Check the JupyterLab log for more details at %1"
+msgstr "检查 JupyterLab 日志以获取 %1 中的更多详细信息"
+
+#: packages/ui-components/src/RequestErrors.tsx:73
+msgid "Check the JupyterLab log for more details"
+msgstr "查看 JupyterLab 日志以获取更多详细信息"
+
+#: packages/ui-components/src/RequestErrors.tsx:77
+msgid "Error making request"
+msgstr "发出请求时出错"

@@ -1,0 +1,2 @@
+[jupyterlab.languagepack]
+zh_CN = jupyterlab_language_pack_zh_CN
